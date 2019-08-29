@@ -1,4 +1,12 @@
-# NgCompleteGuideUpdate
+https://angular-project-5724d.firebaseapp.com/
+
+Recipe book project - ANGULAR
+
+Functions: Recipe book - requires sign-up. The recipe book displays the server stored recipes (Manage -> Fetch recipes). The recipes are global, so each user can see your changes. To overwrite the recipes use Manage -> Save recipes.
+
+You can edit each recipe, create new ones, delete, etc.
+
+backend provided by firebase.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
